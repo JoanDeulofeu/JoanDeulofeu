@@ -1,4 +1,4 @@
-### Hi there 👋
+Je suis un jeune développeur de 28 ans, en reconversion professionnelle depuis 3 ans. Passionné de programmation actuellement en CDI chez Ubees. Je suis intéressé par le développement logiciel et web fullstack. Self-taught développeur, j’aime que mon code soit aussi propre qu’optimisé. Ayant été formé à 42, je ne suis limité par aucune technologie et n’ai d’autre vision sur mon métier que le peer-programming.
 
 <!--
 **JoanDeulofeu/JoanDeulofeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
